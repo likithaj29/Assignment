@@ -1,9 +1,0 @@
-package com.capgemini.hackerRankprogrm;
-
-public class ReverseOfStringMain {
-	public static void main(String[] args) {
-		Reverse rev=new Reverse();
-		rev.reverse();
-	}
-
-}
